@@ -1,0 +1,15 @@
+[package]
+name = "terrain_flow"
+version = "0.1.0"
+authors = ["Aja Walker <aja@ajawalker.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.8.3"
+kdtree = "0.5.1"
+png = "0.16.8"
+delaunator = "0.2.0"
+vec3 = "0.2.1"
+crossbeam = "0.8.0"
+num_cpus = "1.13.0"
+
